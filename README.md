@@ -5,7 +5,8 @@
 
 **VERSION or DATE:** Nov 2017
 
-**HOW TO START THIS PROJECT:** Download the game and open 'project' file using Greenfoot application.
+**HOW TO START THIS PROJECT:** Download the Ironman-ArmoredAdventures.jar file. Open it and click Run to activate the game.
+                                Reset the game everytime after the game's completion to start again.
 
 **AUTHORS:** Avni Gulati, Ishwarya Varadarajan, Rucha Apte, Sowmya Gowrishankar & Sowmya Viswanathan
 
